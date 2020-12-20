@@ -1,4 +1,4 @@
-# BreastCancerProj
+#  Project: Breast Cancer Detection
 
 ## Authors:
  - [Yana Kurlyak](https://github.com/yankur)
